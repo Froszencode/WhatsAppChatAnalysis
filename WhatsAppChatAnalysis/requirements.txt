@@ -1,0 +1,12 @@
+streamlit
+matplotlib
+seaborn
+pandas
+numpy
+urlextract
+wordcloud
+emoji>=2.0.0
+nltk
+vaderSentiment
+tqdm
+stqdm
